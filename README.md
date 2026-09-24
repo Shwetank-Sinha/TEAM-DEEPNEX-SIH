@@ -12,7 +12,7 @@ Edge AI & Live Telemetry: On-board NVIDIA Jetson Orin Nano processing live video
 
 The complete project presentation is available here:
 
-[View FIRE-X Presentation](presentation/FIRE-X-Presentation.pptx)
+[View FIRE-X Presentation](presentation)
 
 ## Key Objectives
 
@@ -36,4 +36,4 @@ The project is currently under development. CAD designs and supporting documenta
 
 The proposed components, specifications, quantities and estimated prices are documented in the project Bill of Materials:
 
-[View Bill of Materials](components/BOM.md)
+[View Bill of Materials](Bill_Of_Materials)
