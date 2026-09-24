@@ -21,6 +21,7 @@ The complete project presentation is available here:
 * Improve mobility across uneven terrain and obstacles
 * Support real-time environmental monitoring
 * Create a modular platform for future firefighting equipment
+
 [View FIRE-X Impact & Technical Comparison](PROJECT_IMPACT.md)
 
 ## Team
