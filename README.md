@@ -22,7 +22,7 @@ The complete project presentation is available here:
 * Support real-time environmental monitoring
 * Create a modular platform for future firefighting equipment
 
-[View FIRE-X Impact & Technical Comparison](PROJECT_IMPACT.md)
+[View FIRE-X Impact & Technical Comparison](PROJECT_DIFFRENTIATION.md)
 
 ## Team
 
