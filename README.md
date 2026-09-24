@@ -4,10 +4,6 @@ FIRE-X is an advanced, ruggedized search-and-rescue reconnaissance rover enginee
 
 Multi-Layer Thermal Protection: Stainless steel outer shell, silica-aerogel insulation blankets, and an active exterior water-mist cooling loop.
 
-Autonomous Navigation: Multi-zone obstacle detection (Ultrasonic/ToF sensors) and SLAM-based real-time mapping.  
-
-Edge AI & Live Telemetry: On-board NVIDIA Jetson Orin Nano processing live video and sensor feeds transmitted securely to HQ without compromising environmental seals.
-
 ## Project Presentation
 
 The complete project presentation is available here:
