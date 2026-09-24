@@ -3,9 +3,9 @@
 **Developed by Team DEEPNEX | Smart India Hackathon 2026**
 
 ##  Core Value Proposition
-> **"KEEP PEOPLE OUT OF THE FIRST LOOK"**
+> **KEEP PEOPLE OUT OF THE FIRST LOOK**
 > 
-> The FIRE-X robot scouts hazardous zones first, collects real-time hazard data, sends actionable information, and supports safer human deployment before rescue crews enter dangerous environments.
+> **The FIRE-X robot scouts hazardous zones first, collects real-time hazard data, sends actionable information, and supports safer human deployment before rescue crews enter dangerous environments.**
 
 
 ##  Problem Statement & Market Need
